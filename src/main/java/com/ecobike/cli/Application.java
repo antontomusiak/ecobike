@@ -135,6 +135,8 @@ public class Application {
         for (int i = 0; i < bikes.size(); i++) {
             System.out.println(bikes.get(i));
             if (i != 0 && i % 10 == 0) {
+                System.out.println();
+                System.out.println("Please press 'Enter' to continue.");
                 scanner.nextLine();
             }
         }
