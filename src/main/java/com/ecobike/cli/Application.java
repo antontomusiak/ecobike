@@ -29,7 +29,6 @@ public class Application {
             "7 – Stop the program\n";
 
 
-
     private final Scanner in;
     private final PrintStream out;
     private BikeRepository bikeRepository;
@@ -46,8 +45,8 @@ public class Application {
         boolean fileFound = false;
         while (!fileFound) {
             fileName = in.nextLine().trim();
-            bikeRepository = new BikeRepositoryImpl(fileName);
             try {
+                bikeRepository = new BikeRepositoryImpl(fileName);
                 bikeRepository.getAll();
                 fileFound = true;
             } catch (IOException e) {
@@ -65,8 +64,7 @@ public class Application {
                     displayNextCommandMessage();
                     break;
                 case "1":
-                    List<Bike> bikes = new ArrayList<>();
-                    bikes = bikeRepository.getAll();
+                    List<Bike> bikes = bikeRepository.getAll();
                     displayBikeList(bikes, in);
                     displayNextCommandMessage();
                     break;
@@ -74,7 +72,6 @@ public class Application {
                     String userInput = BikeCreateCLI.getUserInputFoldingBike(in);
                     Bike bike = Utils.createBike(userInput);
                     bikeRepository.add(bike);
-                    bikeRepository.setUnsaved(true);
                     displayEntrySavedMessage();
                     displayNextCommandMessage();
                     break;
@@ -83,7 +80,6 @@ public class Application {
                     userInput = BikeCreateCLI.getUserInputElectricBike(in, command);
                     bike = Utils.createBike(userInput);
                     bikeRepository.add(bike);
-                    bikeRepository.setUnsaved(true);
                     displayEntrySavedMessage();
                     displayNextCommandMessage();
                     break;
@@ -100,7 +96,6 @@ public class Application {
                 case "6":
                     if (bikeRepository.hasUnsaved()) {
                         bikeRepository.saveAll();
-                        bikeRepository.setUnsaved(false);
                         displaySavedToFileMessage();
                     } else {
                         System.out.println("You don't have unsaved data.");
@@ -134,7 +129,9 @@ public class Application {
     private void displayBikeList(List<Bike> bikes, Scanner scanner) {
         for (int i = 0; i < bikes.size(); i++) {
             System.out.println(bikes.get(i));
-            if (i != 0 && i % 10 == 0) {
+            if (i != 0 && (i+1) % 10 == 0) {
+                System.out.println();
+                System.out.printf("Items %s - %s of %s total", i - 8, i + 1, bikes.size());
                 System.out.println();
                 System.out.println("Please press 'Enter' to continue.");
                 scanner.nextLine();

@@ -37,9 +37,4 @@ public interface BikeRepository {
      * to fields in BikeQuery
      */
     Bike find(BikeQuery bikeQuery);
-
-    /*
-     * sets to true when a new Bike object added
-     */
-    void setUnsaved(boolean unsaved);
 }
