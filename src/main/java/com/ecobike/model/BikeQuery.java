@@ -26,7 +26,7 @@ public class BikeQuery {
         }
     }
 
-    // checks FoldingBike for match
+    //checks FoldingBike for match
     private boolean matchesFoldingBike(Bike bike) {
         FoldingBike foldingBike = (FoldingBike) bike;
         if (this.getBikeType() != foldingBike.getBikeType()) {
@@ -53,7 +53,7 @@ public class BikeQuery {
         return true;
     }
 
-    // checks ElectricBike (E-Bike or Speedelec) for match
+    //checks ElectricBike (E-Bike or Speedelec) for match
     private boolean matchesElectricBike(Bike bike) {
         ElectricBike electricBike = (ElectricBike) bike;
         if (this.getBikeType() != electricBike.getBikeType()) {

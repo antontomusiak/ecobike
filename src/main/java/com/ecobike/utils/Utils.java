@@ -21,7 +21,7 @@ public class Utils {
         if (splittedLine[0].trim().startsWith("FOLDING BIKE")) {
             return checkFoldingBikeData(splittedLine);
         } else if (splittedLine[0].trim().startsWith("E-BIKE") || splittedLine[0].trim().startsWith("SPEEDELEC")) {
-            return checkElectricData(splittedLine);
+            return checkElectricBikeData(splittedLine);
         } else {
             return false;
         }
@@ -93,7 +93,7 @@ public class Utils {
         return true;
     }
 
-    private static boolean checkElectricData(String[] splittedLine) {
+    private static boolean checkElectricBikeData(String[] splittedLine) {
         if (splittedLine[0].trim().endsWith("E-BIKE") || splittedLine[0].trim().endsWith("SPEEDELEC")) {
             return false;
         }
