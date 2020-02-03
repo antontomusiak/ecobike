@@ -127,11 +127,12 @@ public class Application {
     }
 
     private void displayBikeList(List<Bike> bikes, Scanner scanner) {
+        int bikesSize = bikes.size();
         for (int i = 0; i < bikes.size(); i++) {
             System.out.println(bikes.get(i));
             if (i != 0 && (i+1) % 10 == 0) {
                 System.out.println();
-                System.out.printf("Items %s - %s of %s total", i - 8, i + 1, bikes.size());
+                System.out.printf("Items %s - %s of %s total", i - 8, i + 1, bikesSize);
                 System.out.println();
                 System.out.println("Please press 'Enter' to continue.");
                 scanner.nextLine();
