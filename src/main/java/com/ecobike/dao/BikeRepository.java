@@ -15,7 +15,7 @@ public interface BikeRepository {
     /*
      * returns the list of all entries
      */
-    List<Bike> getAll() throws Exception;
+    List<Bike> getAll();
 
     /*
      * adds a new Bike object

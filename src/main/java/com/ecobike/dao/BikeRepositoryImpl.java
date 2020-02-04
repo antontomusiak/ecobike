@@ -23,7 +23,7 @@ public class BikeRepositoryImpl implements BikeRepository {
     }
 
     @Override
-    public List<Bike> getAll() throws IOException {
+    public List<Bike> getAll() {
 
         return Collections.unmodifiableList(bikes);
     }

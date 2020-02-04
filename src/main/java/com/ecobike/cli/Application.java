@@ -47,7 +47,6 @@ public class Application {
             fileName = in.nextLine().trim();
             try {
                 bikeRepository = new BikeRepositoryImpl(fileName);
-                bikeRepository.getAll();
                 fileFound = true;
             } catch (IOException e) {
                 System.out.println("File not found, please try again.");

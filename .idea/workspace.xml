@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b32c3e76-2c1d-4ad5-b917-2fbaba00e3a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ecobike/cli/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/cli/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepositoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
       <recent name="C:\Users\Patriot\ecobike\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JAR Application.ecobike-1.0-SNAPSHOT.jar">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ecobike.Main" />
       <module name="ecobike" />
@@ -107,29 +111,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoldingBikeTest.equalsShouldReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ecobike" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ecobike.model.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ecobike.model" />
-      <option name="MAIN_CLASS_NAME" value="com.ecobike.model.FoldingBikeTest" />
-      <option name="METHOD_NAME" value="equalsShouldReturnFalse" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="ecobike-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/ecobike-1.0-SNAPSHOT.jar" />
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.ecobike-1.0-SNAPSHOT.jar" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in ecobike" />
         <item itemvalue="JUnit.ElectricBikeTest.equalsShouldReturnFalse" />
         <item itemvalue="JUnit.ElectricBikeTest.equalsShouldReturnTrue" />
-        <item itemvalue="JUnit.FoldingBikeTest.equalsShouldReturnFalse" />
       </list>
     </recent_temporary>
   </component>
@@ -155,22 +147,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1580721998437" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1580759252337">
+    <state width="1493" height="69" key="GridCell.Tab.0.bottom" timestamp="1580798546345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580759252337" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1580759252337">
+    <state width="1493" height="69" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580798546345" />
+    <state width="1493" height="69" key="GridCell.Tab.0.center" timestamp="1580798546345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580759252337" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1580759252337">
+    <state width="1493" height="69" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580798546345" />
+    <state width="1493" height="69" key="GridCell.Tab.0.left" timestamp="1580798546345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580759252337" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1580759252337">
+    <state width="1493" height="69" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580798546345" />
+    <state width="1493" height="69" key="GridCell.Tab.0.right" timestamp="1580798546345">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580759252337" />
+    <state width="1493" height="69" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580798546345" />
     <state width="1493" height="197" key="GridCell.Tab.1.bottom" timestamp="1580726885897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -195,10 +187,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580755659033" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580744158686">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580803831897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580744158686" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580803831897" />
     <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580755654152">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
