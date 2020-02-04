@@ -1,7 +1,11 @@
-# ecobike
-To start application foloow next steps:
+# Ecobike
 
-1. Run 'mvn package'
-2. Run 'java -cp ./target/ecobike-1.0-SNAPSHOT.jar com.ecobike.Main'
+## Start application
 
-Prerequisites: Install Maven
+Prerequisites: Maven
+
+1. Go to project root directory
+2. Run 'mvn package'
+3. Run 'java -cp ./target/ecobike-1.0-SNAPSHOT.jar com.ecobike.Main'
+
+
