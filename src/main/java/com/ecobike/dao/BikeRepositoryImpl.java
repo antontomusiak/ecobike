@@ -24,7 +24,6 @@ public class BikeRepositoryImpl implements BikeRepository {
 
     @Override
     public List<Bike> getAll() {
-
         return Collections.unmodifiableList(bikes);
     }
 
@@ -77,6 +76,7 @@ public class BikeRepositoryImpl implements BikeRepository {
             }
             Bike bike = Utils.createBike(line);
             bikes.add(bike);
+            lineNumber++;
         }
         br.close();
     }
