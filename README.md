@@ -12,12 +12,18 @@ Prerequisites: Maven
 EcoBike is an innovative player in the market of short-distance transportation solutions. They are expanding their business from a traditional shop to a worldwide presence on the internet. To enable that step, they are asking you to build a barebones software system to help them enable that transition. As they are aware that within the time you are given you can only design a prototype application, they are asking you to focus on their 3 core products, namely: folding bikes, electric bikes and so-called speedelecs, high-speed fully electric bikes. There is a clear aim to expand their online product portfolio in the short term, so do take that into consideration when designing your software system!
 Specifically, EcoBike gave you the following file format and wants you to develop an application around it.
 An example of such a file looks as follows:
+
 (obviously, you are not allowed to change the file format in any way!)
 FOLDING BIKE Brompton; 20; 6; 9283; TRUE; black; 1199
+
 SPEEDELEC Peugeot; 45; 5426; TRUE; 8000; blue; 875
+
 E-BIKE Gazelle; 49; 16455; TRUE; 16000; red; 1499
+
 FOLDING BIKE Dahon; 16; 1; 11109; FALSE; white; 899
+
 E-BIKE Koga; 48; 15488; TRUE; 21000; red; 1899
+
 The order of the properties (brand, gears, battery capacity, ...) is fixed. The properties per folding bike, speedelec and e-bike are listed below:
 
 #### A folding bike is characterized by:
