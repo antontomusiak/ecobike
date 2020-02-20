@@ -19,7 +19,8 @@ E-BIKE Gazelle; 49; 16455; TRUE; 16000; red; 1499
 FOLDING BIKE Dahon; 16; 1; 11109; FALSE; white; 899
 E-BIKE Koga; 48; 15488; TRUE; 21000; red; 1899
 The order of the properties (brand, gears, battery capacity, ...) is fixed. The properties per folding bike, speedelec and e-bike are listed below:
-A folding bike is characterized by:
+
+#### A folding bike is characterized by:
 - A brand
 - The size of the wheels (in inch)
 - The number of gears
@@ -27,7 +28,8 @@ A folding bike is characterized by:
 - The availability of lights at front and back (TRUE/FALSE)
 - A color
 - The price
-An speedelec is characterized by:
+
+#### A speedelec is characterized by:
 - A brand
 - The maximum speed (in km/h)
 - The weight of the bike (in grams)
@@ -35,7 +37,8 @@ An speedelec is characterized by:
 - The battery capacity (in mAh)
 - A color
 - The price
-An e-bike is characterized by:
+
+#### An e-bike is characterized by:
 - A brand
 - The maximum speed (in km/h)
 - The weight of the e-bike (in grams)
@@ -43,10 +46,12 @@ An e-bike is characterized by:
 - The battery capacity (in mAh)
 - A color
 - The price
+
 EcoBike asks you to design and implement a program that:
 - Reads in the file ecobike.txt when starting the program.
 - Write an equals() method for each class (except for the class that contains the main() method).
 - To enable user interaction, please provide a command line interface with System.out.*. This interface should look like:
+
 Please make your choice:
 1 - Show the entire EcoBike catalog
 2 – Add a new folding bike
@@ -55,7 +60,8 @@ Please make your choice:
 5 – Find the first item of a particular brand
 6 – Write to file
 7 – Stop the program
-Option 1
+
+#### Option 1
 All products are shown on screen in the following format:
 E-BIKE Koga with 15488 mAh battery and head/tail light.
 Price: 1899 euros.
@@ -63,17 +69,22 @@ FOLDING BIKE Dahon with 1 gear(s) and no head/tail light.
 Price: 899 euros.
 SPEEDELEC Peugeot with 5426 mAh battery and head/tail light.
 Price: 875 euros.
-Option 2, 3 & 4
+
+#### Option 2, 3 & 4
 Through questions, you ask the user to fill in all the necessary fields that compose either a new folding bike (Option 2), a speedelec (Option 3) or an e- bike (Option 4). Use System.in
-Option 5
+
+#### Option 5
 Implement the search function, which allows you to find the products of a certain type (e-bikes, folding bikes and speedelecs) of a given brand and with the given parameters. The list of parameters can be any from empty (then the search works only by the name of the brand) to the full (when all parameters specific to this type of bike are set).
 You can implement the search function yourself or using the “binary search”, which is available in the class Collections.
 Since sorting can be computationally expensive, you are given the option to use multithreading so that the application remains responsive during the search.
 Make sure that you do not copy the data structure containing all the products to search for it (work on the “original” one) and make sure that new items cannot be added during sorting.
-Option 6
+
+#### Option 6
 The data should be written to file, in the same format so that the application can read in the file again!
-Option 7
+
+#### Option 7
 The application stops.
+
 Some important things to consider for this assignment:
 - Think about the usefulness of applying inheritance.
 - When writing to the file ecobike.txt, the old version of the file should be overwritten. Maintain the format so that your program can read in the file again!
@@ -81,6 +92,7 @@ Some important things to consider for this assignment:
 - Write unit tests.
 - Your program should also work well, without exceptions.
 - Take care to have a nice programming style, in other words, make use of code indentation, whitespaces, logical identifier names, etc.
+
 Overview of the composition of your grade:
 1. Implementation of all points of the task:
 - working capacity ( if application is not working - final score = 0 )
