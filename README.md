@@ -60,13 +60,21 @@ EcoBike asks you to design and implement a program that:
 - To enable user interaction, please provide a command line interface with System.out.*. This interface should look like:
 
 Please make your choice:
+
 1 - Show the entire EcoBike catalog
+
 2 – Add a new folding bike
+
 3 – Add a new speedelec
+
 4 – Add a new e-bike
+
 5 – Find the first item of a particular brand
+
 6 – Write to file
+
 7 – Stop the program
+
 
 #### Option 1
 All products are shown on screen in the following format:
