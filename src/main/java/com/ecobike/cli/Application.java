@@ -8,7 +8,6 @@ import com.ecobike.utils.Utils;
 
 import java.io.IOException;
 import java.io.PrintStream;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -32,7 +31,6 @@ public class Application {
     private final Scanner in;
     private final PrintStream out;
     private BikeRepository bikeRepository;
-    private List<Bike> bikes = new ArrayList<>();
 
     public Application(Scanner in, PrintStream out) {
         this.in = in;
@@ -84,12 +82,12 @@ public class Application {
                     break;
                 case "5":
                     BikeQuery bikeQuery = BikeSearchCLI.createQueryBike(in);
-                    Bike b2 = bikeRepository.find(bikeQuery);
-                    if (b2 == null) {
+                    Bike matchingBike = bikeRepository.find(bikeQuery);
+                    if (matchingBike == null) {
                         System.out.println("No match found");
                         break;
                     }
-                    System.out.println(b2.toString());
+                    System.out.println(matchingBike);
                     displayNextCommandMessage();
                     break;
                 case "6":

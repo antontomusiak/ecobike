@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b32c3e76-2c1d-4ad5-b917-2fbaba00e3a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecobike/cli/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecobike/cli/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,7 +55,7 @@
       <recent name="C:\Users\Patriot\ecobike\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.ecobike in ecobike">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ecobike.Main" />
       <module name="ecobike" />
@@ -111,9 +113,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.com.ecobike in ecobike" />
         <item itemvalue="JAR Application.ecobike-1.0-SNAPSHOT.jar" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in ecobike" />
         <item itemvalue="JUnit.ElectricBikeTest.equalsShouldReturnFalse" />
       </list>
@@ -141,22 +143,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1580721998437" />
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom" timestamp="1580826986077">
+    <state width="1493" height="344" key="GridCell.Tab.0.bottom" timestamp="1582199248881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580826986077" />
-    <state width="1493" height="228" key="GridCell.Tab.0.center" timestamp="1580826986076">
+    <state width="1493" height="344" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582199248881" />
+    <state width="1493" height="344" key="GridCell.Tab.0.center" timestamp="1582199248881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580826986076" />
-    <state width="1493" height="228" key="GridCell.Tab.0.left" timestamp="1580826986075">
+    <state width="1493" height="344" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582199248881" />
+    <state width="1493" height="344" key="GridCell.Tab.0.left" timestamp="1582199248881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580826986075" />
-    <state width="1493" height="228" key="GridCell.Tab.0.right" timestamp="1580826986076">
+    <state width="1493" height="344" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582199248881" />
+    <state width="1493" height="344" key="GridCell.Tab.0.right" timestamp="1582199248881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580826986076" />
+    <state width="1493" height="344" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582199248881" />
     <state width="1493" height="197" key="GridCell.Tab.1.bottom" timestamp="1580726885897">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -181,10 +183,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580755659033" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580829006440">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1582198755431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580829006440" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582198755431" />
     <state x="498" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580755654152">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -197,5 +199,16 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580755746521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ecobike/dao/BikeRepository.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

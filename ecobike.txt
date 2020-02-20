@@ -1,0 +1,1000 @@
+SPEEDELEC Booster; 35; 10900; false; 13200; green; 1279
+SPEEDELEC E-Scooter; 60; 15300; false; 14800; marine; 309
+E-BIKE Lankeleisi; 65; 24200; false; 10000; black; 2399
+E-BIKE Lankeleisi; 50; 21600; false; 30000; flame; 859
+FOLDING BIKE Benetti; 24; 27; 11400; false; rose; 1009
+FOLDING BIKE Benetti; 24; 6; 9400; true; silver; 1195
+FOLDING BIKE Formula; 16; 21; 12200; true; flame; 269
+E-BIKE ElectrO; 20; 19300; true; 14000; beige; 1025
+SPEEDELEC Dualtron; 30; 14400; true; 6500; dark gray; 1019
+FOLDING BIKE Intertool; 24; 21; 12900; true; coral; 1565
+E-BIKE Gazelle; 45; 25200; true; 11000; yellow; 855
+SPEEDELEC EcoRide; 15; 8300; true; 15600; blue; 1055
+SPEEDELEC Smart; 40; 9600; false; 13000; brown; 1065
+E-BIKE Felt; 60; 28300; false; 9000; grey; 2229
+SPEEDELEC Freego; 55; 9000; false; 15800; grenadine; 1505
+E-BIKE Mando Footloose; 20; 26800; false; 12000; beige; 1559
+FOLDING BIKE Brompton; 20; 7; 10800; true; orange; 1469
+FOLDING BIKE Comanche; 24; 6; 13500; true; olive; 609
+E-BIKE SkyBike; 40; 27200; false; 31000; olive; 1089
+FOLDING BIKE Titan; 20; 24; 10400; true; olive; 479
+FOLDING BIKE Titan; 20; 1; 11800; false; khaki; 1115
+SPEEDELEC EcoRide; 50; 8400; false; 8600; brown; 1609
+FOLDING BIKE BMW; 20; 7; 14400; false; lemon; 1085
+E-BIKE Ecofect; 30; 19200; true; 15000; lemon; 2919
+E-BIKE Gazelle; 25; 22200; true; 26000; silver; 1735
+SPEEDELEC Speedway; 25; 6800; false; 15200; blue; 915
+E-BIKE Ferrari; 55; 20900; false; 28000; olive; 3055
+FOLDING BIKE BMW; 16; 9; 11000; true; emerald; 1459
+SPEEDELEC Segway; 50; 11600; true; 7300; marine; 375
+FOLDING BIKE VNV; 20; 27; 10100; true; emerald; 1645
+E-BIKE ION; 25; 20800; true; 30000; coral; 2355
+SPEEDELEC OIO; 10; 10400; false; 8800; pink; 1099
+FOLDING BIKE Author; 20; 9; 11900; true; brown; 209
+SPEEDELEC Segway; 10; 11700; false; 12000; pink; 1365
+SPEEDELEC Peugeot; 60; 19800; true; 12200; yellow; 885
+FOLDING BIKE West Bike; 20; 21; 15300; false; lemon; 1039
+FOLDING BIKE Dahon; 14; 21; 12200; true; golden; 1169
+E-BIKE Porshe Design; 45; 28800; true; 13000; dark gray; 2789
+FOLDING BIKE Trinx; 20; 24; 10700; true; pink; 855
+FOLDING BIKE Cayman; 16; 27; 8500; false; orange; 735
+E-BIKE E-Motion; 50; 26500; false; 8000; yellow; 2145
+E-BIKE Gazelle; 55; 20800; true; 14000; violet; 1805
+SPEEDELEC Speedelec Minirider; 10; 7600; false; 6300; silver; 125
+FOLDING BIKE Polygon; 20; 8; 15600; false; orange; 1285
+FOLDING BIKE SkyBike; 24; 27; 16200; false; orange; 505
+SPEEDELEC Speedelec Minirider; 25; 15900; true; 14200; pink; 299
+SPEEDELEC Smart; 10; 15000; false; 7200; olive; 455
+FOLDING BIKE West Bike; 14; 9; 11500; false; golden; 1075
+SPEEDELEC ITrike; 25; 14500; false; 5600; marine; 259
+SPEEDELEC Maraton; 40; 15000; true; 7500; golden; 269
+SPEEDELEC Speedelec Minirider; 15; 10000; false; 13900; coral; 855
+FOLDING BIKE Intertool; 26; 21; 11700; true; violet; 689
+SPEEDELEC ITrike; 55; 15000; false; 14500; emerald; 945
+FOLDING BIKE Make Bike; 24; 1; 16300; false; grenadine; 1249
+SPEEDELEC Smart; 65; 17800; false; 13300; khaki; 985
+SPEEDELEC ITrike; 60; 18700; false; 7000; blue; 1109
+FOLDING BIKE Comanche; 16; 21; 16500; true; lemon; 1015
+E-BIKE Rover; 45; 27300; false; 12000; grenadine; 2799
+FOLDING BIKE Crosser; 24; 3; 16000; false; marine; 1129
+FOLDING BIKE Titan; 26; 1; 13800; false; blue; 1655
+FOLDING BIKE Polygon; 18; 7; 8200; true; rose; 1005
+FOLDING BIKE Cayman; 26; 1; 16300; false; khaki; 605
+FOLDING BIKE Trinx; 26; 3; 8400; true; flame; 455
+E-BIKE Xiaomi; 65; 26300; false; 29000; yellow; 3489
+SPEEDELEC Ultron; 25; 16000; true; 10400; violet; 909
+SPEEDELEC Peugeot; 20; 9900; true; 2500; orange; 809
+SPEEDELEC Speedway; 45; 7100; false; 9700; red; 615
+SPEEDELEC Maraton; 20; 19800; false; 15900; silver; 1215
+FOLDING BIKE Titan; 14; 9; 13100; false; orange; 1055
+FOLDING BIKE Comanche; 20; 27; 11700; false; yellow; 1349
+FOLDING BIKE Crosser; 24; 6; 9500; false; lemon; 1675
+E-BIKE Farad; 25; 20700; false; 13000; blue; 2355
+E-BIKE Xiaomi; 65; 22100; false; 11000; dark gray; 1905
+SPEEDELEC Ultron; 35; 7600; false; 3900; grenadine; 1179
+SPEEDELEC Dualtron; 35; 12900; true; 9900; grey; 379
+SPEEDELEC AirWheel; 45; 9900; true; 11400; grenadine; 469
+E-BIKE Zaxboard; 30; 20300; false; 30000; yellow; 1975
+E-BIKE Rover; 20; 21400; false; 16000; flame; 1659
+FOLDING BIKE Brompton; 20; 6; 9600; true; orange; 885
+E-BIKE ION; 20; 20200; false; 20000; grey; 1989
+E-BIKE Zaxboard; 30; 22500; false; 28000; pink; 3345
+FOLDING BIKE West Bike; 18; 18; 15700; false; lemon; 339
+SPEEDELEC Speedelec Minirider; 55; 6900; true; 3800; yellow; 685
+E-BIKE Gazelle; 35; 24700; true; 22000; brown; 3219
+SPEEDELEC Xiaomi; 35; 15300; false; 11700; beige; 1269
+FOLDING BIKE Make Bike; 16; 18; 8900; false; orange; 1109
+E-BIKE Zaxboard; 65; 23300; false; 16000; grenadine; 1275
+E-BIKE Ferrari; 25; 21900; false; 15000; green; 1689
+FOLDING BIKE Crosser; 20; 9; 9500; true; rose; 979
+E-BIKE Mercedes; 50; 24200; true; 21000; orange; 3459
+SPEEDELEC Ultron; 40; 11900; true; 7100; white; 1305
+FOLDING BIKE Trinx; 18; 18; 9600; false; yellow; 359
+SPEEDELEC ITrike; 60; 19600; true; 9800; red; 1385
+SPEEDELEC ITrike; 60; 13200; false; 13800; orange; 475
+FOLDING BIKE VNV; 26; 3; 14600; false; beige; 715
+FOLDING BIKE Dahon; 24; 21; 9000; false; dark gray; 485
+E-BIKE Mando Footloose; 40; 21500; false; 28000; white; 1815
+E-BIKE Ferrari; 30; 19200; false; 9000; beige; 3059
+SPEEDELEC Ultron; 30; 20300; true; 14800; green; 299
+FOLDING BIKE Polygon; 16; 24; 11100; false; lemon; 1379
+E-BIKE Farad; 65; 28500; false; 25000; grenadine; 3385
+SPEEDELEC Dualtron; 50; 16100; false; 2600; violet; 1645
+FOLDING BIKE Flex; 24; 21; 12400; true; silver; 1559
+E-BIKE Zaxboard; 45; 24300; true; 23000; marine; 1535
+FOLDING BIKE Kross; 18; 6; 8800; true; golden; 379
+FOLDING BIKE Dahon; 20; 3; 8000; true; lemon; 779
+E-BIKE Porshe Design; 50; 28100; true; 13000; pink; 755
+FOLDING BIKE Author; 24; 27; 13200; false; flame; 325
+FOLDING BIKE BMW; 18; 27; 10600; true; dark gray; 1549
+E-BIKE Rover; 20; 26100; false; 29000; grenadine; 2219
+E-BIKE Felt; 20; 19300; true; 16000; flame; 2745
+SPEEDELEC E-Scooter; 35; 9700; false; 11500; yellow; 559
+SPEEDELEC Maraton; 65; 16300; true; 12100; red; 1499
+SPEEDELEC Xiaomi; 55; 9500; false; 12500; golden; 779
+E-BIKE Haibike; 60; 25700; true; 8000; golden; 1299
+E-BIKE E-Motion; 35; 25700; false; 16000; blue; 3399
+E-BIKE ElectrO; 20; 19100; false; 30000; dark gray; 3259
+SPEEDELEC Aest; 55; 21800; false; 8400; blue; 359
+E-BIKE ElectrO; 50; 22600; false; 22000; emerald; 2205
+FOLDING BIKE Brompton; 20; 7; 8000; false; dark gray; 999
+SPEEDELEC Dualtron; 25; 21900; true; 6500; silver; 1419
+E-BIKE Zaxboard; 25; 26200; true; 22000; silver; 705
+FOLDING BIKE Polygon; 16; 21; 16800; false; khaki; 295
+FOLDING BIKE Author; 14; 9; 9100; false; lemon; 529
+SPEEDELEC Segway; 25; 16800; false; 2200; silver; 929
+SPEEDELEC Speedway; 35; 18400; true; 11900; grey; 339
+FOLDING BIKE Titan; 24; 6; 14400; true; khaki; 359
+E-BIKE E-Motion; 40; 19100; false; 26000; khaki; 1015
+SPEEDELEC Dualtron; 25; 10000; true; 9100; brown; 1279
+SPEEDELEC Booster; 20; 15000; false; 10300; orange; 399
+FOLDING BIKE Cayman; 26; 18; 8600; true; brown; 389
+E-BIKE Rover; 60; 27300; false; 11000; red; 1155
+SPEEDELEC E-Scooter; 25; 9700; false; 14700; beige; 939
+FOLDING BIKE Trinx; 24; 3; 8800; false; rose; 699
+FOLDING BIKE Brompton; 26; 7; 15100; true; golden; 255
+FOLDING BIKE Dahon; 24; 18; 9000; false; red; 1505
+E-BIKE Ferrari; 65; 27300; true; 18000; rose; 1675
+E-BIKE Scott; 20; 27100; false; 20000; black; 2565
+E-BIKE Porshe Design; 65; 28600; true; 11000; yellow; 1085
+FOLDING BIKE Flex; 16; 18; 12500; false; grenadine; 905
+E-BIKE Ecofect; 45; 24500; true; 27000; yellow; 2929
+E-BIKE Xiaomi; 50; 26400; false; 15000; red; 679
+FOLDING BIKE Stern; 26; 24; 11200; true; black; 339
+FOLDING BIKE Intertool; 24; 9; 10600; false; blue; 725
+E-BIKE Felt; 60; 22400; true; 25000; violet; 719
+SPEEDELEC Ultron; 20; 8100; false; 3800; black; 779
+FOLDING BIKE Benetti; 20; 27; 15100; true; lemon; 1095
+SPEEDELEC EcoRide; 50; 19500; false; 11100; green; 449
+FOLDING BIKE Cayman; 26; 18; 12500; true; coral; 1185
+E-BIKE SkyBike; 30; 22800; false; 19000; red; 3305
+SPEEDELEC EcoRide; 15; 7200; false; 11200; green; 1135
+SPEEDELEC ITrike; 35; 18900; false; 7600; flame; 1235
+FOLDING BIKE Dahon; 16; 1; 12100; false; grey; 799
+E-BIKE Porshe Design; 35; 20100; true; 25000; dark gray; 759
+FOLDING BIKE Dahon; 20; 18; 16500; true; olive; 1215
+FOLDING BIKE Formula; 24; 8; 10300; true; silver; 619
+FOLDING BIKE Intertool; 24; 9; 13300; false; silver; 529
+FOLDING BIKE Formula; 16; 6; 16900; false; golden; 445
+FOLDING BIKE Make Bike; 26; 27; 8100; true; red; 305
+E-BIKE Mando Footloose; 20; 22000; true; 16000; blue; 2539
+SPEEDELEC E-Scooter; 30; 10500; false; 9200; emerald; 155
+E-BIKE Xiaomi; 20; 28900; true; 31000; khaki; 1739
+E-BIKE Felt; 35; 22800; false; 13000; beige; 1975
+E-BIKE Farad; 35; 27000; true; 12000; blue; 1579
+SPEEDELEC Smart; 45; 8500; true; 12400; yellow; 545
+SPEEDELEC Ultron; 65; 21600; false; 4800; silver; 599
+SPEEDELEC Smart; 45; 21100; true; 6200; violet; 339
+E-BIKE Ecofect; 30; 21000; true; 10000; orange; 2479
+E-BIKE SkyBike; 65; 23200; false; 31000; khaki; 675
+E-BIKE Scott; 30; 28000; true; 31000; olive; 1125
+SPEEDELEC Dualtron; 15; 16900; false; 7500; black; 225
+FOLDING BIKE SkyBike; 16; 9; 14800; true; yellow; 1049
+FOLDING BIKE Dahon; 20; 1; 13100; false; grenadine; 1329
+FOLDING BIKE Crosser; 20; 1; 14800; true; white; 395
+E-BIKE Ecofect; 25; 26400; false; 17000; silver; 1145
+FOLDING BIKE Dahon; 24; 7; 10900; false; violet; 1515
+E-BIKE Gazelle; 25; 28900; false; 12000; red; 2129
+E-BIKE ION; 45; 23500; false; 24000; pink; 739
+E-BIKE GoCycle; 65; 25200; true; 26000; dark gray; 2829
+E-BIKE Mando Footloose; 55; 20600; false; 21000; coral; 1385
+E-BIKE SkyBike; 55; 25900; false; 9000; silver; 3239
+FOLDING BIKE Crosser; 20; 18; 13800; false; khaki; 249
+E-BIKE Gazelle; 55; 23800; false; 22000; marine; 3375
+SPEEDELEC Dualtron; 65; 6600; false; 6300; grenadine; 1435
+FOLDING BIKE Polygon; 24; 3; 14000; false; khaki; 639
+FOLDING BIKE Dahon; 26; 27; 12600; false; beige; 1025
+SPEEDELEC Speedway; 30; 13200; true; 15600; brown; 1575
+FOLDING BIKE Benetti; 20; 6; 16000; false; dark gray; 289
+FOLDING BIKE Benetti; 20; 21; 13600; false; lemon; 1399
+E-BIKE Haibike; 30; 26200; false; 24000; red; 1979
+E-BIKE SkyBike; 60; 20700; false; 15000; violet; 2119
+E-BIKE SkyBike; 40; 27400; true; 8000; orange; 1699
+FOLDING BIKE Crosser; 20; 18; 14000; true; violet; 369
+E-BIKE Xiaomi; 55; 23600; false; 8000; black; 2555
+FOLDING BIKE West Bike; 18; 27; 11700; false; emerald; 1439
+SPEEDELEC Smart; 55; 9400; true; 12700; white; 535
+E-BIKE Gazelle; 60; 20600; false; 11000; emerald; 2879
+E-BIKE Ferrari; 50; 28500; false; 25000; golden; 1489
+SPEEDELEC Xiaomi; 25; 13500; true; 7300; blue; 1569
+SPEEDELEC Dualtron; 15; 11800; true; 10500; yellow; 1449
+FOLDING BIKE Author; 20; 8; 9300; true; emerald; 1355
+E-BIKE Ferrari; 20; 23800; true; 14000; violet; 2479
+SPEEDELEC Freego; 65; 18400; false; 5000; yellow; 1309
+SPEEDELEC Speedelec Minirider; 15; 10000; false; 15100; orange; 1349
+SPEEDELEC Kugoo; 20; 11600; true; 13500; dark gray; 349
+E-BIKE GoCycle; 55; 25000; false; 23000; flame; 2189
+SPEEDELEC Dualtron; 30; 15500; false; 4900; red; 439
+E-BIKE Felt; 30; 25200; false; 10000; dark gray; 2845
+E-BIKE Rover; 40; 28100; false; 13000; grenadine; 1649
+FOLDING BIKE Polygon; 24; 27; 10600; true; grey; 645
+E-BIKE Zaxboard; 55; 22400; true; 27000; blue; 2249
+E-BIKE GoCycle; 50; 24400; true; 22000; coral; 2195
+E-BIKE Koga; 20; 22900; false; 12000; olive; 2129
+E-BIKE Lankeleisi; 50; 22500; false; 13000; golden; 795
+FOLDING BIKE Intertool; 20; 1; 14300; true; khaki; 859
+SPEEDELEC Xiaomi; 45; 18200; false; 10400; white; 679
+SPEEDELEC OIO; 10; 19300; false; 14500; red; 265
+FOLDING BIKE Stern; 24; 21; 12800; false; blue; 725
+E-BIKE Koga; 65; 20200; true; 19000; grey; 3185
+FOLDING BIKE BMW; 20; 9; 14600; true; marine; 1605
+SPEEDELEC AirWheel; 15; 9900; true; 14000; olive; 1009
+E-BIKE Zaxboard; 55; 20700; false; 27000; marine; 909
+E-BIKE Scott; 25; 21300; true; 15000; pink; 3359
+SPEEDELEC Booster; 65; 6600; false; 11700; pink; 605
+SPEEDELEC Maraton; 55; 17500; false; 2100; dark gray; 765
+SPEEDELEC Ultron; 50; 20500; false; 13000; emerald; 549
+FOLDING BIKE Titan; 24; 3; 10600; false; grenadine; 1075
+SPEEDELEC Booster; 60; 16200; false; 8100; red; 329
+E-BIKE GoCycle; 55; 19600; true; 14000; yellow; 1949
+SPEEDELEC Speedway; 50; 21200; false; 15900; dark gray; 1159
+SPEEDELEC Segway; 50; 12800; true; 4800; green; 1319
+E-BIKE Rover; 35; 22400; false; 11000; rose; 2429
+FOLDING BIKE Dahon; 24; 9; 10600; false; lemon; 389
+SPEEDELEC ITrike; 65; 21800; false; 12900; violet; 1389
+FOLDING BIKE Titan; 20; 6; 13100; true; rose; 365
+FOLDING BIKE Titan; 24; 3; 13100; true; olive; 875
+FOLDING BIKE West Bike; 24; 9; 9600; true; beige; 1315
+FOLDING BIKE Author; 20; 21; 14000; false; grenadine; 1075
+FOLDING BIKE Stern; 18; 3; 14500; false; rose; 1635
+E-BIKE Felt; 60; 21000; false; 26000; dark gray; 2279
+E-BIKE Scott; 45; 21800; true; 28000; dark gray; 2039
+FOLDING BIKE Crosser; 16; 6; 11700; true; black; 1065
+SPEEDELEC Segway; 20; 7600; true; 2200; olive; 669
+SPEEDELEC E-Scooter; 65; 19400; true; 3800; grey; 1115
+FOLDING BIKE Comanche; 20; 18; 9100; true; violet; 1025
+E-BIKE Xiaomi; 30; 22800; true; 25000; coral; 3119
+E-BIKE Zaxboard; 20; 27000; true; 23000; yellow; 1309
+SPEEDELEC Peugeot; 55; 6800; true; 12900; khaki; 515
+FOLDING BIKE Cayman; 24; 7; 15600; false; golden; 999
+SPEEDELEC EcoRide; 45; 8400; false; 8300; beige; 1615
+FOLDING BIKE Dahon; 14; 7; 13900; false; khaki; 1009
+SPEEDELEC Smart; 20; 8700; true; 10500; silver; 1239
+SPEEDELEC Speedway; 45; 21300; false; 4400; green; 1279
+FOLDING BIKE Flex; 26; 3; 14800; false; golden; 205
+SPEEDELEC Speedelec Minirider; 25; 20400; false; 10900; grenadine; 1465
+E-BIKE ION; 25; 19600; false; 8000; green; 2209
+E-BIKE Lankeleisi; 60; 19100; false; 28000; flame; 2989
+FOLDING BIKE Kross; 20; 7; 15800; false; red; 439
+FOLDING BIKE Make Bike; 14; 8; 10000; true; olive; 1149
+SPEEDELEC Tesla; 35; 20300; true; 7700; flame; 135
+FOLDING BIKE Intertool; 24; 27; 9400; false; violet; 1585
+SPEEDELEC ITrike; 10; 20900; true; 5700; golden; 1475
+SPEEDELEC AirWheel; 20; 14300; false; 4000; yellow; 1635
+E-BIKE Scott; 65; 24400; false; 15000; brown; 1215
+E-BIKE Koga; 35; 28100; true; 25000; silver; 2125
+SPEEDELEC Booster; 15; 19000; false; 6600; green; 359
+E-BIKE ElectrO; 20; 22500; false; 31000; rose; 2029
+FOLDING BIKE Comanche; 20; 9; 11100; true; beige; 1639
+E-BIKE Mando Footloose; 40; 24200; false; 16000; golden; 2255
+SPEEDELEC Booster; 55; 19200; true; 2900; pink; 549
+SPEEDELEC OIO; 20; 7600; true; 13500; violet; 849
+SPEEDELEC Ultron; 20; 12900; false; 12300; grenadine; 425
+SPEEDELEC Xiaomi; 10; 9700; true; 8400; silver; 795
+FOLDING BIKE Titan; 24; 9; 15000; true; lemon; 1525
+SPEEDELEC Xiaomi; 10; 20800; true; 10400; brown; 505
+E-BIKE Zaxboard; 60; 28500; false; 27000; silver; 1319
+SPEEDELEC Speedelec Minirider; 35; 9000; true; 4200; black; 1479
+E-BIKE Haibike; 55; 27400; true; 12000; rose; 1955
+FOLDING BIKE BMW; 20; 27; 13200; false; golden; 1289
+E-BIKE Mando Footloose; 35; 24300; false; 26000; yellow; 1369
+E-BIKE ElectrO; 60; 25700; false; 19000; blue; 1725
+E-BIKE Lankeleisi; 35; 27800; true; 26000; coral; 3175
+E-BIKE Felt; 60; 27500; false; 29000; blue; 2825
+E-BIKE Mercedes; 25; 19400; true; 23000; blue; 1719
+SPEEDELEC AirWheel; 65; 12200; false; 13400; rose; 609
+SPEEDELEC Segway; 45; 6800; false; 3700; flame; 259
+SPEEDELEC Aest; 35; 18100; true; 5000; violet; 1049
+E-BIKE ION; 60; 27200; false; 28000; emerald; 1939
+E-BIKE ElectrO; 40; 23600; false; 11000; orange; 2445
+SPEEDELEC Speedelec Minirider; 65; 14500; true; 13600; marine; 1279
+SPEEDELEC Segway; 45; 20700; false; 10700; yellow; 689
+E-BIKE Zaxboard; 35; 24600; true; 17000; khaki; 2015
+E-BIKE Gazelle; 65; 25500; true; 28000; emerald; 3049
+E-BIKE Farad; 60; 21200; false; 16000; green; 1949
+FOLDING BIKE Stern; 20; 8; 15500; false; dark gray; 519
+FOLDING BIKE Flex; 24; 21; 9700; false; dark gray; 1539
+E-BIKE ElectrO; 65; 27100; false; 15000; green; 2615
+E-BIKE Gazelle; 60; 26600; true; 12000; emerald; 2985
+SPEEDELEC EcoRide; 30; 19900; false; 2100; olive; 369
+SPEEDELEC E-Scooter; 60; 14900; true; 2900; white; 129
+E-BIKE Farad; 50; 25900; true; 23000; emerald; 2039
+SPEEDELEC ITrike; 55; 14100; false; 14100; marine; 1459
+FOLDING BIKE Flex; 26; 3; 13700; true; olive; 1129
+FOLDING BIKE VNV; 26; 6; 10800; true; red; 1435
+SPEEDELEC Smart; 30; 19300; false; 12700; marine; 1259
+SPEEDELEC Ultron; 55; 19600; true; 9900; olive; 1515
+FOLDING BIKE Flex; 24; 8; 12600; true; emerald; 825
+E-BIKE Scott; 40; 21600; true; 25000; brown; 1049
+E-BIKE Koga; 20; 22200; false; 27000; pink; 839
+SPEEDELEC Maraton; 45; 9200; false; 7400; marine; 1369
+SPEEDELEC AirWheel; 35; 7100; true; 13600; green; 399
+FOLDING BIKE Stern; 26; 27; 8200; true; olive; 1325
+SPEEDELEC Dualtron; 25; 7000; true; 5100; coral; 1595
+SPEEDELEC Peugeot; 15; 11900; false; 11600; rose; 1589
+E-BIKE Koga; 60; 20400; true; 28000; white; 2829
+SPEEDELEC E-Scooter; 60; 9600; false; 2700; rose; 1415
+SPEEDELEC E-Scooter; 40; 19800; false; 3000; grenadine; 709
+SPEEDELEC EcoRide; 10; 18400; true; 13200; black; 335
+SPEEDELEC Aest; 40; 15100; true; 7700; olive; 159
+SPEEDELEC OIO; 10; 12100; true; 9200; blue; 1169
+SPEEDELEC Segway; 50; 14300; true; 12700; coral; 609
+SPEEDELEC Tesla; 20; 15200; true; 9700; blue; 1015
+FOLDING BIKE BMW; 26; 27; 10800; false; grenadine; 745
+SPEEDELEC Booster; 30; 18500; true; 12700; coral; 885
+FOLDING BIKE Comanche; 20; 21; 11400; false; orange; 985
+FOLDING BIKE Titan; 26; 21; 11200; true; blue; 785
+SPEEDELEC Aest; 40; 14100; true; 6000; silver; 409
+SPEEDELEC Tesla; 35; 16200; true; 6500; coral; 439
+FOLDING BIKE Make Bike; 20; 3; 10300; true; silver; 955
+SPEEDELEC Xiaomi; 55; 6500; false; 3700; blue; 595
+SPEEDELEC Xiaomi; 45; 20900; true; 14900; black; 655
+FOLDING BIKE Brompton; 24; 24; 14500; true; dark gray; 1145
+E-BIKE Zaxboard; 60; 26300; true; 28000; yellow; 1675
+E-BIKE ElectrO; 40; 23400; false; 25000; flame; 1329
+SPEEDELEC Peugeot; 45; 17200; false; 9100; white; 1599
+SPEEDELEC Peugeot; 40; 14800; true; 13200; rose; 339
+E-BIKE Felt; 65; 22000; true; 11000; rose; 1235
+FOLDING BIKE Crosser; 24; 1; 16100; true; orange; 265
+E-BIKE Rover; 60; 27100; true; 20000; beige; 1399
+SPEEDELEC Booster; 50; 11900; false; 5700; pink; 1565
+SPEEDELEC OIO; 45; 10400; true; 11300; golden; 355
+E-BIKE Gazelle; 50; 26900; true; 15000; green; 2359
+E-BIKE Ecofect; 25; 23100; true; 31000; marine; 3419
+SPEEDELEC Speedelec Minirider; 65; 20000; true; 8100; black; 1409
+SPEEDELEC Speedelec Minirider; 55; 12200; true; 12200; rose; 739
+SPEEDELEC Peugeot; 60; 19300; true; 11300; beige; 185
+E-BIKE Farad; 50; 22400; false; 14000; red; 1539
+SPEEDELEC Freego; 65; 18600; false; 14600; white; 209
+SPEEDELEC Aest; 50; 15600; false; 7600; yellow; 379
+FOLDING BIKE Comanche; 20; 7; 15600; false; pink; 459
+E-BIKE Scott; 35; 25300; false; 16000; olive; 3019
+E-BIKE Mercedes; 60; 24300; true; 14000; silver; 1505
+SPEEDELEC AirWheel; 45; 9200; true; 15100; emerald; 815
+FOLDING BIKE VNV; 24; 1; 14400; true; white; 235
+SPEEDELEC Speedelec Minirider; 30; 17600; true; 7900; coral; 1195
+SPEEDELEC Speedelec Minirider; 65; 12300; true; 6200; dark gray; 1399
+E-BIKE Rover; 30; 19000; true; 22000; grey; 3369
+SPEEDELEC ITrike; 45; 13000; true; 8100; grenadine; 1185
+E-BIKE Farad; 20; 20400; true; 20000; beige; 2509
+FOLDING BIKE Trinx; 24; 6; 8200; false; orange; 1559
+SPEEDELEC E-Scooter; 50; 12700; false; 4500; black; 299
+FOLDING BIKE Dahon; 14; 21; 13500; false; coral; 475
+FOLDING BIKE Formula; 20; 24; 16600; true; grenadine; 1585
+FOLDING BIKE Dahon; 20; 9; 13900; true; silver; 1685
+SPEEDELEC EcoRide; 20; 12100; true; 5400; golden; 1199
+FOLDING BIKE Trinx; 26; 24; 14500; true; green; 905
+FOLDING BIKE Intertool; 26; 9; 13400; false; emerald; 435
+E-BIKE Rover; 45; 25700; false; 23000; orange; 3069
+FOLDING BIKE Stern; 16; 1; 13500; true; white; 899
+E-BIKE Rover; 20; 19000; true; 11000; khaki; 1009
+FOLDING BIKE Brompton; 24; 3; 10400; true; olive; 1315
+FOLDING BIKE Crosser; 20; 1; 14700; true; silver; 375
+FOLDING BIKE Dahon; 24; 8; 13100; true; silver; 229
+SPEEDELEC Speedelec Minirider; 10; 7800; false; 8900; grey; 869
+SPEEDELEC AirWheel; 15; 12500; true; 13400; blue; 1675
+E-BIKE Mando Footloose; 30; 20700; true; 23000; dark gray; 2849
+SPEEDELEC Kugoo; 10; 15800; false; 14100; orange; 1575
+E-BIKE ION; 35; 28400; true; 31000; yellow; 3245
+SPEEDELEC Tesla; 65; 12600; true; 6400; brown; 199
+FOLDING BIKE West Bike; 26; 18; 16400; true; green; 335
+FOLDING BIKE West Bike; 20; 18; 11200; false; red; 419
+SPEEDELEC Maraton; 25; 21100; true; 12300; lemon; 909
+FOLDING BIKE Make Bike; 18; 1; 12200; false; lemon; 1305
+FOLDING BIKE West Bike; 18; 21; 15100; false; coral; 1065
+SPEEDELEC E-Scooter; 45; 13500; true; 6100; white; 659
+SPEEDELEC Maraton; 50; 21400; true; 11300; green; 1105
+SPEEDELEC Speedway; 50; 7200; false; 11800; olive; 1325
+SPEEDELEC Smart; 35; 20000; false; 11700; golden; 245
+E-BIKE Mercedes; 55; 25800; true; 27000; olive; 825
+FOLDING BIKE Formula; 20; 8; 16000; false; green; 669
+SPEEDELEC Tesla; 65; 18900; false; 13900; olive; 229
+FOLDING BIKE SkyBike; 26; 9; 8700; false; grey; 1179
+SPEEDELEC Kugoo; 35; 14400; false; 7800; golden; 745
+FOLDING BIKE Titan; 20; 24; 11800; false; flame; 1499
+FOLDING BIKE Benetti; 14; 7; 13400; true; coral; 305
+E-BIKE GoCycle; 35; 27900; false; 10000; brown; 2685
+FOLDING BIKE Trinx; 20; 21; 12300; false; rose; 1425
+E-BIKE E-Motion; 50; 23300; true; 19000; dark gray; 3419
+SPEEDELEC AirWheel; 50; 8400; true; 7900; emerald; 1599
+SPEEDELEC E-Scooter; 10; 15800; false; 3100; yellow; 1375
+E-BIKE Farad; 30; 28700; true; 14000; yellow; 2245
+SPEEDELEC OIO; 45; 10300; true; 13400; pink; 959
+E-BIKE Mando Footloose; 35; 23000; true; 19000; green; 2495
+SPEEDELEC Xiaomi; 40; 6500; false; 9000; silver; 375
+FOLDING BIKE Author; 24; 7; 11900; true; red; 685
+E-BIKE Farad; 45; 21500; true; 12000; silver; 1385
+SPEEDELEC Maraton; 30; 14800; false; 12800; white; 889
+SPEEDELEC Booster; 50; 17900; true; 3100; lemon; 1399
+FOLDING BIKE West Bike; 14; 21; 8300; false; yellow; 189
+E-BIKE Zaxboard; 30; 20300; false; 29000; pink; 2205
+FOLDING BIKE Stern; 20; 1; 8200; false; orange; 615
+SPEEDELEC Speedelec Minirider; 55; 15200; false; 5600; green; 899
+FOLDING BIKE Flex; 24; 8; 9300; true; orange; 779
+E-BIKE Scott; 20; 20900; false; 23000; dark gray; 1465
+SPEEDELEC Xiaomi; 60; 13800; false; 12700; brown; 1475
+FOLDING BIKE Polygon; 24; 6; 15900; true; violet; 405
+E-BIKE ION; 20; 26900; false; 21000; golden; 1359
+E-BIKE Mando Footloose; 40; 27600; false; 16000; flame; 2105
+FOLDING BIKE Flex; 26; 3; 12000; false; pink; 835
+SPEEDELEC AirWheel; 45; 13500; false; 4600; yellow; 1039
+FOLDING BIKE West Bike; 24; 1; 10800; true; red; 525
+SPEEDELEC Speedelec Minirider; 30; 19700; false; 3100; grey; 1649
+FOLDING BIKE Make Bike; 26; 1; 10300; true; lemon; 765
+FOLDING BIKE Make Bike; 14; 24; 13100; false; red; 625
+SPEEDELEC Booster; 10; 7300; false; 7600; flame; 239
+FOLDING BIKE Titan; 24; 7; 16900; true; green; 1339
+SPEEDELEC Kugoo; 15; 10200; true; 12200; khaki; 815
+E-BIKE Mercedes; 45; 24200; false; 28000; beige; 2399
+SPEEDELEC Speedway; 25; 21900; false; 15000; rose; 559
+E-BIKE Porshe Design; 60; 26500; true; 25000; dark gray; 3479
+SPEEDELEC OIO; 30; 18400; false; 10800; golden; 1519
+SPEEDELEC Peugeot; 35; 13900; false; 3100; marine; 1355
+E-BIKE Xiaomi; 65; 28900; true; 14000; golden; 1535
+FOLDING BIKE Intertool; 24; 3; 11500; false; pink; 1579
+E-BIKE ION; 60; 28900; false; 31000; emerald; 3099
+FOLDING BIKE Cayman; 24; 6; 11600; false; orange; 1315
+E-BIKE Felt; 65; 21900; false; 26000; white; 3359
+FOLDING BIKE Stern; 14; 24; 9800; true; white; 465
+SPEEDELEC Booster; 25; 13500; false; 8900; black; 869
+FOLDING BIKE Titan; 20; 9; 13800; false; violet; 1239
+SPEEDELEC E-Scooter; 10; 8600; false; 10200; black; 605
+FOLDING BIKE Flex; 26; 1; 13400; true; white; 595
+SPEEDELEC Segway; 50; 17900; true; 5900; brown; 659
+SPEEDELEC Aest; 45; 6900; false; 5500; brown; 1635
+SPEEDELEC Booster; 40; 9900; true; 2400; black; 1635
+FOLDING BIKE Benetti; 24; 9; 15100; false; dark gray; 519
+SPEEDELEC Xiaomi; 20; 11700; false; 4700; white; 309
+FOLDING BIKE VNV; 20; 9; 9700; false; grenadine; 1325
+E-BIKE ION; 20; 22300; true; 28000; golden; 1179
+SPEEDELEC Segway; 35; 14800; true; 3400; green; 319
+SPEEDELEC Speedelec Minirider; 65; 7800; true; 9700; rose; 665
+E-BIKE Porshe Design; 60; 28300; true; 30000; white; 2869
+E-BIKE Porshe Design; 40; 20800; true; 18000; green; 1119
+FOLDING BIKE Kross; 18; 21; 10200; false; blue; 1269
+E-BIKE Mercedes; 65; 23800; true; 19000; blue; 3259
+SPEEDELEC Speedelec Minirider; 50; 12600; false; 13700; grenadine; 739
+E-BIKE Zaxboard; 55; 23300; false; 21000; coral; 1705
+SPEEDELEC Maraton; 60; 13700; false; 3000; beige; 625
+FOLDING BIKE Titan; 18; 9; 15000; true; blue; 385
+SPEEDELEC Speedelec Minirider; 35; 7000; false; 10500; khaki; 265
+E-BIKE Scott; 45; 25900; false; 21000; pink; 1759
+SPEEDELEC AirWheel; 60; 16900; false; 14100; blue; 295
+SPEEDELEC Freego; 25; 9900; false; 15100; marine; 765
+E-BIKE Rover; 25; 25000; false; 8000; beige; 829
+FOLDING BIKE Crosser; 20; 1; 13600; true; red; 469
+SPEEDELEC ITrike; 65; 9900; false; 9000; rose; 205
+SPEEDELEC OIO; 60; 14100; false; 9100; silver; 415
+SPEEDELEC Ultron; 45; 21900; true; 2300; marine; 1459
+SPEEDELEC Kugoo; 40; 20100; true; 8100; grenadine; 425
+FOLDING BIKE Dahon; 16; 18; 11400; true; beige; 709
+SPEEDELEC ITrike; 50; 17200; true; 5200; violet; 1355
+E-BIKE Porshe Design; 20; 27700; false; 20000; grenadine; 1309
+E-BIKE Koga; 30; 21200; false; 25000; beige; 1019
+SPEEDELEC Booster; 10; 21400; false; 9700; brown; 1019
+FOLDING BIKE Trinx; 24; 3; 13900; true; beige; 1115
+SPEEDELEC OIO; 40; 9900; true; 6100; violet; 535
+FOLDING BIKE Stern; 24; 3; 13400; true; beige; 1209
+E-BIKE ElectrO; 20; 19800; false; 21000; beige; 1875
+FOLDING BIKE Comanche; 26; 1; 9900; true; grey; 199
+E-BIKE Haibike; 25; 24300; true; 25000; beige; 1975
+FOLDING BIKE Polygon; 20; 8; 14100; true; grey; 309
+SPEEDELEC Tesla; 50; 20000; false; 2900; khaki; 325
+SPEEDELEC E-Scooter; 60; 8300; false; 13100; silver; 345
+SPEEDELEC Xiaomi; 60; 17000; true; 12300; violet; 1209
+E-BIKE Gazelle; 55; 25300; true; 13000; beige; 1569
+FOLDING BIKE Author; 26; 24; 10200; true; black; 1599
+E-BIKE Haibike; 40; 25100; false; 13000; beige; 2445
+E-BIKE Rover; 25; 23300; true; 26000; olive; 679
+E-BIKE SkyBike; 45; 27900; false; 30000; violet; 2125
+SPEEDELEC Aest; 20; 11700; true; 12800; emerald; 365
+SPEEDELEC ITrike; 60; 16300; false; 3800; white; 1549
+FOLDING BIKE Comanche; 20; 1; 11600; true; pink; 279
+E-BIKE Zaxboard; 25; 23500; false; 26000; beige; 2785
+FOLDING BIKE Crosser; 16; 7; 12200; false; pink; 695
+E-BIKE Felt; 55; 22700; true; 29000; white; 2835
+FOLDING BIKE Kross; 24; 6; 11600; false; yellow; 759
+SPEEDELEC AirWheel; 45; 7000; true; 13000; golden; 299
+SPEEDELEC ITrike; 55; 13300; true; 10300; khaki; 1019
+FOLDING BIKE Kross; 20; 8; 11500; false; green; 345
+SPEEDELEC EcoRide; 45; 10900; true; 13600; pink; 355
+FOLDING BIKE Kross; 20; 8; 14800; false; yellow; 1675
+FOLDING BIKE Titan; 26; 27; 16900; false; grey; 1299
+SPEEDELEC Maraton; 40; 18900; false; 6800; pink; 869
+SPEEDELEC OIO; 20; 13800; true; 5600; emerald; 135
+FOLDING BIKE Polygon; 20; 1; 10700; true; emerald; 1355
+E-BIKE Mercedes; 50; 23600; true; 15000; emerald; 1505
+E-BIKE Ecofect; 45; 26900; true; 14000; dark gray; 1575
+SPEEDELEC Tesla; 35; 18700; true; 2000; beige; 489
+E-BIKE Felt; 50; 28900; true; 25000; olive; 2599
+FOLDING BIKE Formula; 18; 9; 10100; false; coral; 1625
+FOLDING BIKE Formula; 24; 7; 9600; true; grey; 385
+E-BIKE Felt; 45; 20900; false; 18000; grenadine; 1765
+E-BIKE Haibike; 40; 23800; false; 30000; pink; 1455
+SPEEDELEC Maraton; 30; 18700; false; 2200; golden; 415
+E-BIKE Farad; 35; 21900; false; 11000; coral; 3419
+FOLDING BIKE Make Bike; 20; 24; 14000; false; silver; 1219
+SPEEDELEC AirWheel; 20; 14500; true; 11600; orange; 499
+FOLDING BIKE Dahon; 20; 27; 15900; true; rose; 1589
+E-BIKE Felt; 25; 25200; false; 30000; white; 669
+SPEEDELEC Speedway; 35; 19200; true; 10400; brown; 1019
+FOLDING BIKE SkyBike; 24; 21; 11900; true; pink; 1029
+SPEEDELEC AirWheel; 30; 19600; false; 11500; grenadine; 1555
+FOLDING BIKE Trinx; 18; 8; 13500; true; white; 1465
+SPEEDELEC Freego; 45; 20700; false; 12000; silver; 1445
+FOLDING BIKE West Bike; 16; 21; 14000; true; rose; 1305
+E-BIKE GoCycle; 45; 22700; false; 23000; grey; 2429
+SPEEDELEC Aest; 50; 19500; false; 6300; red; 1385
+FOLDING BIKE Cayman; 20; 1; 12700; true; flame; 1299
+FOLDING BIKE Trinx; 26; 7; 13400; true; grenadine; 1675
+E-BIKE ION; 25; 22600; true; 22000; grenadine; 2995
+SPEEDELEC OIO; 60; 21400; false; 6700; golden; 1455
+FOLDING BIKE Titan; 26; 3; 13500; false; pink; 1685
+SPEEDELEC Dualtron; 35; 18600; true; 4700; grey; 489
+FOLDING BIKE Cayman; 20; 9; 14000; true; silver; 1499
+E-BIKE Mando Footloose; 55; 23200; true; 29000; golden; 2215
+FOLDING BIKE Crosser; 20; 3; 9700; true; brown; 1105
+SPEEDELEC E-Scooter; 25; 16400; false; 7800; rose; 235
+SPEEDELEC E-Scooter; 20; 13500; false; 7500; flame; 435
+SPEEDELEC Speedelec Minirider; 30; 8200; true; 15000; grenadine; 775
+E-BIKE SkyBike; 50; 25800; true; 11000; beige; 3265
+E-BIKE Ecofect; 35; 24500; true; 19000; grenadine; 2865
+FOLDING BIKE Kross; 20; 18; 13300; true; golden; 1445
+SPEEDELEC Speedway; 15; 21900; false; 6600; marine; 1475
+FOLDING BIKE Polygon; 20; 6; 9400; true; black; 975
+FOLDING BIKE Crosser; 24; 18; 9700; true; black; 365
+SPEEDELEC Ultron; 45; 16900; false; 13500; emerald; 1625
+SPEEDELEC Tesla; 20; 9100; true; 3900; violet; 1599
+FOLDING BIKE Author; 18; 24; 13900; false; brown; 1229
+SPEEDELEC Maraton; 50; 14600; true; 8900; emerald; 1005
+SPEEDELEC Speedway; 20; 6500; false; 4800; orange; 365
+E-BIKE Koga; 55; 26000; true; 11000; beige; 905
+FOLDING BIKE Cayman; 18; 3; 12700; true; marine; 1089
+FOLDING BIKE Polygon; 16; 3; 10200; true; coral; 845
+E-BIKE ElectrO; 50; 20300; false; 29000; grey; 1839
+FOLDING BIKE Crosser; 20; 1; 11400; true; grey; 1459
+FOLDING BIKE Brompton; 18; 9; 11900; false; yellow; 845
+E-BIKE Ecofect; 25; 23900; true; 18000; blue; 925
+SPEEDELEC Ultron; 65; 8200; true; 3700; coral; 435
+FOLDING BIKE Stern; 26; 27; 10000; true; green; 355
+FOLDING BIKE BMW; 16; 8; 16800; false; grey; 1165
+SPEEDELEC Tesla; 25; 7800; false; 9500; beige; 1365
+SPEEDELEC Aest; 45; 13600; false; 4100; khaki; 519
+E-BIKE Zaxboard; 50; 22100; true; 20000; beige; 1609
+E-BIKE GoCycle; 35; 19100; false; 20000; golden; 3329
+E-BIKE Felt; 30; 21500; false; 27000; lemon; 1265
+SPEEDELEC Dualtron; 30; 13900; false; 12800; khaki; 1595
+FOLDING BIKE Comanche; 20; 27; 14500; false; silver; 1655
+E-BIKE Gazelle; 50; 21400; true; 30000; green; 1889
+SPEEDELEC Xiaomi; 15; 9000; true; 5800; blue; 1255
+E-BIKE ION; 30; 19100; false; 8000; yellow; 1705
+SPEEDELEC E-Scooter; 15; 21000; false; 6600; beige; 1129
+E-BIKE Gazelle; 25; 25300; false; 19000; silver; 1029
+FOLDING BIKE Brompton; 16; 27; 8300; false; grey; 195
+E-BIKE Porshe Design; 60; 28300; true; 27000; grey; 1005
+SPEEDELEC AirWheel; 10; 7000; false; 2600; blue; 1145
+SPEEDELEC Booster; 15; 6500; false; 3200; green; 699
+E-BIKE SkyBike; 35; 26100; false; 17000; yellow; 3139
+FOLDING BIKE Stern; 14; 8; 9600; true; violet; 1539
+FOLDING BIKE Formula; 26; 9; 9300; false; orange; 915
+SPEEDELEC E-Scooter; 15; 11900; true; 14500; silver; 439
+FOLDING BIKE Kross; 20; 24; 8500; false; brown; 1545
+E-BIKE ElectrO; 45; 24100; false; 23000; silver; 919
+SPEEDELEC Freego; 25; 13900; true; 3800; marine; 849
+E-BIKE Koga; 45; 23400; false; 14000; olive; 3189
+SPEEDELEC Kugoo; 65; 20700; false; 5400; emerald; 1235
+E-BIKE Lankeleisi; 40; 26700; false; 28000; blue; 2865
+E-BIKE ION; 60; 23100; false; 10000; green; 2005
+FOLDING BIKE Flex; 16; 8; 14900; true; violet; 365
+E-BIKE Koga; 45; 27500; true; 11000; golden; 3385
+FOLDING BIKE Stern; 18; 24; 9000; true; emerald; 495
+E-BIKE Koga; 25; 27400; false; 20000; orange; 3345
+E-BIKE Haibike; 55; 26300; false; 18000; red; 1805
+SPEEDELEC Peugeot; 35; 10300; false; 9200; blue; 225
+FOLDING BIKE VNV; 14; 3; 12400; true; khaki; 1169
+SPEEDELEC Ultron; 55; 19800; true; 14400; emerald; 1479
+FOLDING BIKE Author; 18; 9; 11600; false; coral; 1605
+SPEEDELEC Speedelec Minirider; 35; 21900; false; 13400; dark gray; 859
+E-BIKE Scott; 55; 24400; false; 13000; golden; 2719
+FOLDING BIKE Titan; 20; 1; 11800; true; rose; 225
+FOLDING BIKE Comanche; 24; 8; 12800; true; white; 789
+SPEEDELEC Aest; 30; 11600; true; 8500; coral; 805
+E-BIKE GoCycle; 40; 20300; true; 25000; orange; 3269
+E-BIKE Xiaomi; 25; 27600; true; 21000; green; 2229
+FOLDING BIKE Crosser; 14; 27; 15100; true; silver; 1659
+FOLDING BIKE Cayman; 24; 27; 14000; false; rose; 665
+FOLDING BIKE Author; 20; 7; 8800; true; beige; 449
+SPEEDELEC EcoRide; 60; 19400; true; 5100; khaki; 715
+E-BIKE Xiaomi; 45; 27400; true; 16000; silver; 1239
+SPEEDELEC Peugeot; 60; 21100; true; 15800; lemon; 199
+SPEEDELEC Smart; 35; 20300; false; 14500; khaki; 885
+FOLDING BIKE Dahon; 14; 27; 9700; true; white; 1215
+SPEEDELEC Ultron; 60; 10400; false; 7000; emerald; 489
+FOLDING BIKE VNV; 20; 3; 10400; true; silver; 445
+SPEEDELEC EcoRide; 20; 21500; true; 11900; marine; 1375
+FOLDING BIKE VNV; 26; 8; 14900; false; marine; 825
+FOLDING BIKE VNV; 20; 18; 8500; false; green; 339
+SPEEDELEC Tesla; 10; 13400; false; 11300; orange; 1115
+FOLDING BIKE Flex; 26; 9; 12900; true; marine; 349
+FOLDING BIKE Author; 24; 18; 15300; true; red; 1079
+SPEEDELEC Aest; 65; 14200; true; 14200; grey; 1479
+SPEEDELEC Booster; 55; 11700; false; 6000; marine; 1299
+FOLDING BIKE Titan; 20; 8; 10200; false; pink; 185
+SPEEDELEC Tesla; 50; 19500; false; 6000; emerald; 1395
+FOLDING BIKE Make Bike; 20; 7; 8800; true; khaki; 799
+SPEEDELEC Xiaomi; 35; 21600; true; 8300; black; 1565
+FOLDING BIKE Titan; 24; 18; 12200; false; grenadine; 1509
+SPEEDELEC Freego; 45; 10400; false; 2900; green; 985
+E-BIKE Farad; 30; 19200; false; 10000; brown; 1955
+SPEEDELEC Kugoo; 60; 17700; false; 9900; coral; 1175
+FOLDING BIKE Titan; 20; 7; 10300; false; yellow; 1425
+FOLDING BIKE Polygon; 20; 3; 9000; false; coral; 795
+SPEEDELEC Booster; 50; 19600; false; 9100; olive; 779
+SPEEDELEC EcoRide; 60; 20000; true; 2000; green; 699
+SPEEDELEC Kugoo; 10; 14300; true; 3300; olive; 1515
+E-BIKE Rover; 45; 24900; true; 12000; brown; 2665
+E-BIKE Gazelle; 60; 19600; false; 12000; yellow; 835
+SPEEDELEC Booster; 30; 8300; false; 4000; orange; 835
+FOLDING BIKE SkyBike; 24; 21; 15700; false; grenadine; 295
+FOLDING BIKE Polygon; 26; 9; 12800; false; yellow; 1575
+SPEEDELEC Segway; 30; 20600; true; 9000; dark gray; 429
+E-BIKE Zaxboard; 45; 20300; false; 25000; green; 3059
+SPEEDELEC Xiaomi; 65; 20900; true; 3400; beige; 1139
+SPEEDELEC Dualtron; 15; 10600; true; 3400; white; 439
+FOLDING BIKE Author; 24; 7; 11000; true; grenadine; 249
+E-BIKE Rover; 40; 19300; true; 26000; blue; 2295
+E-BIKE Farad; 60; 28300; true; 12000; khaki; 2345
+FOLDING BIKE Polygon; 24; 1; 9100; false; flame; 449
+SPEEDELEC Speedelec Minirider; 45; 10000; false; 6600; white; 1599
+SPEEDELEC ITrike; 45; 13200; false; 2100; green; 715
+SPEEDELEC Tesla; 40; 13900; true; 14400; coral; 725
+E-BIKE Scott; 25; 20200; true; 24000; khaki; 2895
+FOLDING BIKE Benetti; 26; 6; 15000; true; silver; 1315
+SPEEDELEC Booster; 55; 7600; false; 8300; olive; 1339
+SPEEDELEC Segway; 10; 10300; true; 6700; golden; 1055
+FOLDING BIKE Comanche; 24; 18; 8400; true; golden; 599
+SPEEDELEC Maraton; 65; 21700; false; 8700; emerald; 1445
+FOLDING BIKE Comanche; 20; 6; 15100; true; pink; 1259
+FOLDING BIKE VNV; 20; 1; 10700; true; white; 1275
+FOLDING BIKE Titan; 14; 9; 10400; true; golden; 1375
+FOLDING BIKE Trinx; 24; 8; 16100; false; dark gray; 505
+E-BIKE Scott; 40; 19100; false; 27000; marine; 969
+E-BIKE Porshe Design; 45; 28900; true; 29000; khaki; 1399
+SPEEDELEC Xiaomi; 15; 6600; true; 15900; yellow; 1515
+SPEEDELEC Freego; 35; 20100; false; 2100; olive; 295
+FOLDING BIKE Trinx; 20; 6; 11000; true; blue; 1209
+SPEEDELEC EcoRide; 60; 19100; true; 2800; olive; 879
+E-BIKE ION; 50; 25600; false; 24000; blue; 1835
+E-BIKE SkyBike; 20; 23700; true; 22000; golden; 2645
+SPEEDELEC Maraton; 60; 7800; false; 14900; flame; 1239
+FOLDING BIKE Trinx; 14; 6; 10400; true; dark gray; 1535
+SPEEDELEC Xiaomi; 45; 21100; true; 2200; white; 625
+E-BIKE Zaxboard; 65; 25900; true; 9000; rose; 2945
+E-BIKE SkyBike; 45; 22100; false; 13000; silver; 1039
+FOLDING BIKE Flex; 18; 27; 12400; true; yellow; 829
+SPEEDELEC Kugoo; 20; 9000; false; 9900; black; 1225
+E-BIKE GoCycle; 60; 23700; true; 18000; orange; 1219
+E-BIKE ElectrO; 65; 20500; true; 13000; yellow; 1849
+SPEEDELEC Speedelec Minirider; 65; 14100; false; 8000; pink; 1375
+E-BIKE Farad; 45; 26200; true; 14000; black; 2875
+FOLDING BIKE Comanche; 16; 7; 10700; false; pink; 359
+FOLDING BIKE Cayman; 18; 8; 13200; false; pink; 715
+FOLDING BIKE SkyBike; 20; 3; 12900; false; grenadine; 775
+E-BIKE Ecofect; 40; 23900; false; 14000; olive; 2839
+SPEEDELEC Xiaomi; 10; 17400; false; 3000; black; 295
+FOLDING BIKE Brompton; 20; 18; 9700; false; golden; 815
+SPEEDELEC Speedelec Minirider; 30; 14400; false; 7800; rose; 1445
+FOLDING BIKE West Bike; 24; 6; 15200; false; grey; 1119
+FOLDING BIKE BMW; 16; 6; 12500; true; marine; 1559
+E-BIKE Farad; 35; 25900; false; 24000; lemon; 2679
+SPEEDELEC EcoRide; 15; 12300; false; 6200; rose; 1565
+SPEEDELEC AirWheel; 20; 6500; true; 2100; flame; 199
+SPEEDELEC AirWheel; 20; 13900; true; 14700; golden; 549
+FOLDING BIKE Trinx; 20; 1; 10700; true; green; 1599
+E-BIKE Gazelle; 65; 20500; false; 21000; black; 1175
+FOLDING BIKE Dahon; 14; 3; 8100; true; marine; 349
+SPEEDELEC Kugoo; 60; 9000; false; 6400; orange; 1639
+E-BIKE Scott; 60; 19000; false; 23000; beige; 1475
+SPEEDELEC Tesla; 65; 18500; true; 9200; green; 319
+FOLDING BIKE BMW; 20; 1; 16800; true; grenadine; 625
+FOLDING BIKE Titan; 24; 24; 10800; false; lemon; 1485
+E-BIKE Rover; 50; 22600; true; 9000; black; 2369
+E-BIKE Haibike; 45; 27600; false; 17000; flame; 809
+E-BIKE SkyBike; 20; 25600; true; 22000; white; 3329
+E-BIKE E-Motion; 35; 21300; false; 29000; violet; 1799
+FOLDING BIKE Make Bike; 16; 18; 9200; true; brown; 385
+FOLDING BIKE Trinx; 14; 3; 9100; false; coral; 679
+SPEEDELEC ITrike; 25; 14500; true; 2800; white; 915
+FOLDING BIKE Make Bike; 20; 7; 12300; false; orange; 959
+FOLDING BIKE Trinx; 14; 18; 12100; false; black; 435
+E-BIKE Haibike; 45; 24200; false; 16000; khaki; 2765
+SPEEDELEC Speedway; 25; 13800; false; 8000; silver; 1555
+FOLDING BIKE Dahon; 18; 27; 11800; false; brown; 839
+FOLDING BIKE Cayman; 20; 21; 15100; true; pink; 1479
+E-BIKE ION; 40; 28200; false; 11000; brown; 1695
+FOLDING BIKE Intertool; 20; 7; 11200; true; coral; 1129
+SPEEDELEC Peugeot; 25; 19000; true; 9100; brown; 975
+E-BIKE Rover; 30; 19200; false; 21000; rose; 2065
+FOLDING BIKE Cayman; 26; 6; 11800; true; black; 1259
+FOLDING BIKE Make Bike; 16; 7; 9800; false; green; 395
+SPEEDELEC AirWheel; 30; 6900; false; 14400; marine; 1669
+E-BIKE Mando Footloose; 25; 20300; false; 14000; white; 2565
+E-BIKE ElectrO; 30; 20600; false; 31000; red; 2899
+SPEEDELEC Xiaomi; 45; 19900; true; 12800; silver; 575
+FOLDING BIKE Brompton; 20; 7; 15300; false; khaki; 299
+E-BIKE Lankeleisi; 65; 25900; true; 15000; flame; 1315
+E-BIKE Gazelle; 20; 25600; false; 8000; marine; 1405
+FOLDING BIKE Comanche; 16; 1; 15600; true; dark gray; 619
+FOLDING BIKE Polygon; 20; 3; 16600; true; marine; 1419
+E-BIKE GoCycle; 35; 25700; true; 24000; brown; 2605
+SPEEDELEC Peugeot; 20; 14300; false; 7800; violet; 925
+SPEEDELEC Aest; 20; 19900; false; 2600; emerald; 1279
+E-BIKE ION; 35; 25100; true; 12000; marine; 1059
+FOLDING BIKE Benetti; 24; 1; 16100; true; violet; 329
+FOLDING BIKE Make Bike; 20; 24; 8400; true; marine; 1365
+E-BIKE Scott; 45; 28100; true; 15000; rose; 2365
+SPEEDELEC OIO; 25; 16400; true; 7700; khaki; 1469
+E-BIKE Ecofect; 35; 24400; false; 28000; brown; 1789
+E-BIKE Felt; 55; 24200; false; 15000; yellow; 965
+FOLDING BIKE Intertool; 24; 24; 9100; false; orange; 629
+FOLDING BIKE Author; 18; 8; 9000; false; grey; 925
+E-BIKE Scott; 65; 20400; false; 24000; orange; 3209
+E-BIKE Ecofect; 40; 21500; false; 26000; black; 2185
+FOLDING BIKE Cayman; 20; 1; 13600; true; golden; 1045
+SPEEDELEC Tesla; 65; 8300; false; 5100; grey; 475
+FOLDING BIKE Cayman; 26; 7; 13100; false; emerald; 269
+FOLDING BIKE Formula; 26; 6; 10400; false; flame; 825
+FOLDING BIKE Dahon; 26; 6; 16800; false; yellow; 229
+FOLDING BIKE Formula; 20; 6; 8800; false; grey; 729
+E-BIKE ElectrO; 40; 26700; false; 17000; grenadine; 2729
+SPEEDELEC Kugoo; 25; 13600; true; 10800; dark gray; 1125
+SPEEDELEC Tesla; 25; 18800; true; 12800; blue; 1019
+FOLDING BIKE BMW; 14; 1; 13800; true; orange; 1655
+SPEEDELEC OIO; 45; 16900; false; 4700; violet; 945
+FOLDING BIKE Benetti; 24; 3; 9700; true; white; 1349
+E-BIKE Mercedes; 25; 26000; false; 30000; orange; 3445
+SPEEDELEC Kugoo; 30; 9300; false; 7900; dark gray; 559
+SPEEDELEC Speedway; 65; 15900; false; 2100; flame; 1135
+SPEEDELEC Segway; 40; 6700; false; 9900; pink; 969
+FOLDING BIKE Crosser; 18; 8; 8700; true; olive; 1575
+SPEEDELEC Kugoo; 15; 21800; true; 4100; grey; 805
+FOLDING BIKE Kross; 20; 1; 12700; false; grey; 865
+FOLDING BIKE Crosser; 20; 7; 9700; false; black; 609
+E-BIKE Scott; 45; 28900; true; 30000; yellow; 1185
+FOLDING BIKE West Bike; 26; 24; 13300; true; brown; 185
+E-BIKE Ecofect; 60; 21100; false; 21000; flame; 2149
+E-BIKE Gazelle; 35; 26100; false; 14000; marine; 2515
+E-BIKE Mando Footloose; 65; 27700; true; 20000; beige; 1849
+FOLDING BIKE Crosser; 20; 9; 12100; false; grey; 1529
+E-BIKE Zaxboard; 30; 23700; true; 26000; lemon; 2889
+SPEEDELEC E-Scooter; 55; 16500; true; 7200; marine; 659
+FOLDING BIKE Kross; 24; 24; 8500; true; olive; 579
+E-BIKE Farad; 65; 28400; true; 14000; olive; 1149
+FOLDING BIKE BMW; 18; 9; 10300; false; rose; 1065
+E-BIKE Lankeleisi; 50; 27800; true; 26000; orange; 705
+E-BIKE ION; 35; 21700; true; 10000; golden; 2635
+E-BIKE ION; 50; 22100; false; 29000; brown; 945
+SPEEDELEC Kugoo; 50; 16200; true; 10500; silver; 599
+SPEEDELEC Maraton; 55; 8500; true; 2300; pink; 1389
+SPEEDELEC Speedway; 60; 9900; true; 6100; marine; 445
+E-BIKE Mercedes; 60; 20400; false; 24000; grey; 3105
+E-BIKE Mercedes; 65; 27800; false; 12000; violet; 3015
+SPEEDELEC E-Scooter; 10; 16800; true; 3700; brown; 849
+FOLDING BIKE Author; 20; 27; 9200; false; red; 1135
+SPEEDELEC Xiaomi; 15; 6700; false; 11300; emerald; 1225
+FOLDING BIKE Make Bike; 20; 18; 10500; true; lemon; 869
+FOLDING BIKE Titan; 20; 18; 15600; true; green; 665
+SPEEDELEC Tesla; 55; 20800; false; 14500; grenadine; 885
+SPEEDELEC Segway; 55; 16300; false; 6000; brown; 1389
+FOLDING BIKE Intertool; 20; 24; 10900; false; pink; 729
+SPEEDELEC Peugeot; 50; 10200; true; 10600; orange; 1195
+SPEEDELEC E-Scooter; 65; 6600; false; 9700; golden; 1435
+FOLDING BIKE Comanche; 20; 21; 13300; true; dark gray; 405
+E-BIKE Porshe Design; 30; 28300; false; 31000; flame; 689
+E-BIKE Xiaomi; 40; 22900; true; 9000; dark gray; 1465
+E-BIKE Haibike; 30; 22600; false; 21000; grenadine; 1405
+SPEEDELEC Speedelec Minirider; 60; 14500; true; 12400; marine; 1475
+FOLDING BIKE Intertool; 20; 6; 15300; true; rose; 655
+SPEEDELEC Freego; 10; 12900; true; 9400; flame; 759
+SPEEDELEC AirWheel; 65; 6900; false; 6300; green; 1615
+FOLDING BIKE West Bike; 24; 27; 12300; true; black; 1065
+E-BIKE Felt; 35; 24900; false; 22000; grenadine; 1465
+SPEEDELEC Smart; 55; 15500; false; 5900; grey; 315
+FOLDING BIKE Comanche; 20; 6; 16600; true; red; 1535
+FOLDING BIKE Titan; 16; 18; 14600; true; black; 1085
+E-BIKE Zaxboard; 65; 28700; true; 11000; silver; 2975
+SPEEDELEC Speedelec Minirider; 35; 7200; false; 7200; white; 1665
+E-BIKE Koga; 50; 19500; true; 12000; flame; 1725
+FOLDING BIKE Cayman; 24; 1; 8900; false; rose; 1615
+FOLDING BIKE Crosser; 20; 7; 8300; false; olive; 945
+SPEEDELEC AirWheel; 65; 15700; false; 10500; blue; 585
+FOLDING BIKE West Bike; 20; 6; 16300; false; beige; 1025
+FOLDING BIKE VNV; 20; 8; 14000; true; golden; 939
+FOLDING BIKE Comanche; 18; 24; 13700; false; marine; 755
+SPEEDELEC Kugoo; 40; 13600; false; 12000; yellow; 1315
+E-BIKE ION; 35; 22400; false; 17000; khaki; 1005
+E-BIKE Rover; 50; 25200; false; 24000; coral; 2255
+FOLDING BIKE Titan; 14; 27; 11900; false; coral; 1559
+SPEEDELEC Peugeot; 30; 14000; true; 12300; golden; 1175
+E-BIKE Farad; 35; 19700; false; 11000; brown; 3435
+E-BIKE E-Motion; 65; 25900; true; 13000; green; 2919
+E-BIKE Koga; 60; 21200; false; 15000; brown; 1135
+SPEEDELEC Freego; 50; 10600; false; 2300; brown; 125
+E-BIKE ElectrO; 55; 22700; false; 26000; flame; 805
+FOLDING BIKE BMW; 20; 18; 11500; true; green; 469
+E-BIKE E-Motion; 40; 26500; false; 14000; golden; 1715
+FOLDING BIKE Comanche; 20; 7; 14900; false; white; 1369
+E-BIKE Haibike; 30; 24200; true; 19000; pink; 849
+FOLDING BIKE West Bike; 20; 18; 11100; true; rose; 1305
+E-BIKE Rover; 40; 25600; true; 20000; red; 1489
+FOLDING BIKE VNV; 24; 8; 9700; false; coral; 1459
+SPEEDELEC ITrike; 40; 19900; false; 11600; violet; 1285
+FOLDING BIKE Formula; 18; 21; 10900; false; green; 1419
+E-BIKE Scott; 50; 21600; true; 25000; yellow; 739
+E-BIKE Mando Footloose; 50; 19200; true; 28000; yellow; 1385
+SPEEDELEC Xiaomi; 35; 18100; false; 10300; violet; 1499
+E-BIKE ElectrO; 55; 22400; false; 16000; red; 2109
+SPEEDELEC Segway; 55; 11900; false; 2000; marine; 339
+E-BIKE Xiaomi; 25; 22600; false; 14000; flame; 1735
+FOLDING BIKE Flex; 24; 1; 11000; false; dark gray; 389
+E-BIKE Porshe Design; 30; 28700; true; 31000; golden; 1619
+FOLDING BIKE Author; 18; 24; 10300; false; green; 1015
+E-BIKE Mando Footloose; 20; 23300; true; 17000; violet; 1339
+E-BIKE ION; 45; 24600; true; 30000; pink; 1595
+E-BIKE Rover; 65; 24700; true; 27000; green; 2779
+SPEEDELEC Maraton; 25; 9000; true; 9000; dark gray; 1565
+E-BIKE Ferrari; 35; 25600; true; 10000; grenadine; 1555
+E-BIKE GoCycle; 65; 26900; false; 12000; beige; 1945
+FOLDING BIKE Dahon; 20; 1; 8200; true; green; 1435
+E-BIKE GoCycle; 40; 24000; true; 15000; grenadine; 1005
+SPEEDELEC Segway; 40; 11200; true; 11400; brown; 209
+E-BIKE SkyBike; 35; 26800; true; 25000; grey; 899
+E-BIKE Ecofect; 35; 23500; false; 13000; golden; 3389
+SPEEDELEC Xiaomi; 40; 9300; false; 14700; coral; 609
+SPEEDELEC OIO; 65; 12600; false; 8800; coral; 199
+SPEEDELEC Kugoo; 10; 8100; false; 9900; grey; 1299
+SPEEDELEC Freego; 25; 18300; true; 7100; flame; 1059
+E-BIKE Lankeleisi; 60; 24400; false; 13000; white; 3095
+SPEEDELEC OIO; 55; 9000; true; 9500; black; 199
+E-BIKE Scott; 55; 23200; false; 11000; violet; 1625
+E-BIKE Mando Footloose; 65; 19900; false; 8000; coral; 1949
+SPEEDELEC Kugoo; 25; 15100; false; 11300; black; 1429
+FOLDING BIKE Benetti; 14; 27; 10200; false; khaki; 1129
+E-BIKE Mando Footloose; 65; 22500; true; 30000; lemon; 1365
+SPEEDELEC Xiaomi; 20; 17400; true; 4200; emerald; 785
+E-BIKE Ecofect; 20; 27300; false; 16000; golden; 1595
+E-BIKE Lankeleisi; 25; 26600; true; 9000; yellow; 3289
+E-BIKE Rover; 65; 25100; false; 29000; grey; 2939
+SPEEDELEC Tesla; 20; 19700; true; 2200; violet; 799
+E-BIKE SkyBike; 55; 28600; true; 30000; black; 2159
+SPEEDELEC EcoRide; 30; 13400; false; 11500; lemon; 1615
+SPEEDELEC Speedelec Minirider; 15; 18800; false; 13100; white; 729
+E-BIKE ElectrO; 50; 28100; false; 11000; silver; 3139
+SPEEDELEC EcoRide; 65; 21700; false; 12900; flame; 795
+E-BIKE Farad; 30; 22500; true; 10000; rose; 1745
+FOLDING BIKE Benetti; 18; 7; 10900; true; beige; 1165
+FOLDING BIKE Titan; 24; 7; 16500; true; golden; 1295
+SPEEDELEC Booster; 65; 20300; false; 15500; red; 175
+E-BIKE Porshe Design; 60; 27000; false; 13000; marine; 659
+SPEEDELEC AirWheel; 15; 11200; false; 11200; pink; 419
+SPEEDELEC Ultron; 45; 21000; false; 3700; beige; 239
+E-BIKE Zaxboard; 60; 28900; false; 14000; black; 3115
+E-BIKE Lankeleisi; 65; 25100; false; 25000; khaki; 2859
+E-BIKE E-Motion; 45; 19600; false; 24000; silver; 1489
+FOLDING BIKE Flex; 20; 7; 8500; false; flame; 455
+FOLDING BIKE Stern; 20; 1; 9500; false; coral; 1055
+FOLDING BIKE Trinx; 20; 27; 14600; false; pink; 465
+E-BIKE Ferrari; 35; 20600; true; 10000; emerald; 805
+FOLDING BIKE Stern; 24; 24; 14400; true; marine; 705
+FOLDING BIKE BMW; 16; 9; 12600; false; emerald; 1649
+SPEEDELEC Booster; 45; 7500; false; 6500; coral; 1175
+FOLDING BIKE West Bike; 14; 9; 16200; false; dark gray; 209
+FOLDING BIKE Dahon; 20; 8; 16900; true; dark gray; 1595
+E-BIKE Scott; 20; 19800; false; 9000; lemon; 1455
+SPEEDELEC Kugoo; 55; 14000; true; 12400; marine; 1489
+FOLDING BIKE Titan; 20; 8; 8800; true; yellow; 1665
+E-BIKE Scott; 35; 24500; false; 14000; flame; 1775
+E-BIKE ION; 45; 21300; false; 14000; brown; 3149
+FOLDING BIKE Trinx; 26; 7; 11600; true; grey; 1099
+SPEEDELEC Segway; 20; 13300; false; 5900; silver; 335
+SPEEDELEC AirWheel; 40; 7700; true; 11600; orange; 1319
+FOLDING BIKE Cayman; 24; 21; 12700; false; emerald; 279
+SPEEDELEC Peugeot; 20; 19300; true; 14200; red; 1075
+SPEEDELEC AirWheel; 35; 9800; false; 10900; rose; 155
+E-BIKE Xiaomi; 45; 26100; true; 13000; green; 1269
+SPEEDELEC Ultron; 60; 9200; true; 14800; grey; 1549
+SPEEDELEC E-Scooter; 35; 8800; false; 14200; beige; 245
+E-BIKE Mercedes; 55; 26200; true; 12000; orange; 1765
+FOLDING BIKE Brompton; 26; 6; 15400; false; grenadine; 519
+SPEEDELEC Kugoo; 55; 11400; false; 12300; lemon; 1325
+FOLDING BIKE Make Bike; 26; 1; 13900; false; orange; 705
+FOLDING BIKE Formula; 20; 21; 11100; false; rose; 1675
+E-BIKE Gazelle; 30; 20400; true; 29000; grenadine; 2195
+FOLDING BIKE Formula; 24; 27; 8500; true; flame; 1485
+FOLDING BIKE Benetti; 14; 7; 9500; false; grey; 189
+SPEEDELEC EcoRide; 25; 9200; true; 3200; dark gray; 289
+SPEEDELEC Maraton; 40; 14500; false; 12200; lemon; 885
+FOLDING BIKE Comanche; 14; 27; 13400; true; white; 1255
+FOLDING BIKE SkyBike; 20; 24; 15800; false; red; 755
+E-BIKE SkyBike; 45; 23500; true; 30000; rose; 2245
+E-BIKE Scott; 45; 25600; false; 28000; olive; 1215
+FOLDING BIKE VNV; 24; 24; 11000; true; coral; 1505
+FOLDING BIKE Author; 20; 3; 12800; false; silver; 1505
+E-BIKE Haibike; 60; 21400; false; 14000; golden; 2885
+SPEEDELEC Aest; 45; 14300; false; 5800; blue; 1049
+FOLDING BIKE Author; 20; 24; 14500; true; rose; 509
+E-BIKE Lankeleisi; 50; 20500; false; 19000; white; 859
+E-BIKE GoCycle; 60; 25400; false; 29000; green; 1495
+E-BIKE Ecofect; 35; 28200; false; 9000; brown; 2145
+SPEEDELEC Speedelec Minirider; 30; 16900; true; 11000; beige; 985
+FOLDING BIKE Trinx; 24; 1; 11300; false; blue; 975
+FOLDING BIKE Flex; 24; 6; 16100; false; khaki; 569
+E-BIKE Ferrari; 55; 23500; true; 25000; violet; 1649
+E-BIKE ElectrO; 35; 19100; false; 31000; golden; 2179
+SPEEDELEC Speedway; 10; 19200; true; 6400; black; 399
+E-BIKE Koga; 60; 24100; true; 23000; orange; 1485
+FOLDING BIKE VNV; 24; 1; 10100; true; red; 575
+E-BIKE SkyBike; 45; 21700; true; 10000; black; 2119
+SPEEDELEC Kugoo; 15; 21100; false; 9700; flame; 1429
+FOLDING BIKE Formula; 14; 1; 13900; false; khaki; 425
+E-BIKE SkyBike; 25; 19100; true; 11000; golden; 1125
+E-BIKE SkyBike; 30; 28600; false; 20000; green; 2809
+FOLDING BIKE Flex; 20; 27; 16300; true; white; 1409
+SPEEDELEC Ultron; 35; 21700; false; 14600; orange; 1645
+E-BIKE Haibike; 65; 24900; false; 13000; white; 1415
+E-BIKE ION; 40; 24700; true; 27000; dark gray; 1989
+FOLDING BIKE Stern; 26; 21; 11100; false; orange; 465
+FOLDING BIKE Titan; 20; 3; 8200; false; red; 355
+SPEEDELEC Booster; 45; 13600; true; 14100; khaki; 865
+FOLDING BIKE Stern; 26; 3; 14900; true; beige; 819
+E-BIKE Zaxboard; 55; 28800; true; 30000; black; 2395
+E-BIKE Lankeleisi; 45; 28800; false; 13000; pink; 1209
+FOLDING BIKE Trinx; 20; 27; 8000; true; grey; 885
+E-BIKE Rover; 60; 19900; true; 14000; grenadine; 3089
+SPEEDELEC Tesla; 25; 18200; false; 10500; khaki; 559
+E-BIKE Ecofect; 60; 23100; false; 10000; golden; 1729
+SPEEDELEC Segway; 50; 8800; true; 13600; coral; 865
+SPEEDELEC Freego; 30; 10100; true; 2600; khaki; 1679
+E-BIKE ElectrO; 35; 27000; false; 21000; black; 2735
+SPEEDELEC Booster; 50; 10200; false; 2500; green; 1525
+FOLDING BIKE Polygon; 24; 3; 16200; true; blue; 655
+E-BIKE Ecofect; 25; 23800; true; 16000; beige; 2869
+FOLDING BIKE SkyBike; 24; 6; 16800; true; khaki; 445
+SPEEDELEC Speedelec Minirider; 65; 14100; true; 5000; white; 1499
+E-BIKE Farad; 45; 20100; true; 14000; lemon; 2379
+SPEEDELEC Booster; 50; 9300; true; 5600; khaki; 455
+SPEEDELEC Kugoo; 45; 9200; false; 8400; dark gray; 1355
+SPEEDELEC Kugoo; 30; 13000; false; 4400; black; 489
+FOLDING BIKE Cayman; 20; 1; 16800; true; black; 669
+SPEEDELEC Speedway; 35; 9400; false; 2400; green; 1419
+SPEEDELEC Freego; 30; 16400; false; 6000; blue; 1665
+SPEEDELEC Tesla; 45; 20700; false; 14600; olive; 205
+E-BIKE Ecofect; 35; 27000; false; 18000; olive; 1989
+SPEEDELEC ITrike; 50; 12000; true; 11600; marine; 245
+E-BIKE ION; 25; 27700; false; 17000; green; 3235
+E-BIKE Koga; 35; 24900; false; 29000; white; 729
+SPEEDELEC Tesla; 15; 12200; true; 2300; khaki; 615
+FOLDING BIKE BMW; 20; 1; 10500; false; blue; 635
+FOLDING BIKE West Bike; 20; 7; 14700; true; golden; 299
+FOLDING BIKE West Bike; 18; 6; 15600; false; blue; 1219
+E-BIKE Lankeleisi; 60; 28200; false; 15000; coral; 2429
+SPEEDELEC Peugeot; 50; 20800; true; 15700; silver; 1279
+FOLDING BIKE Polygon; 24; 6; 16400; false; coral; 725
+FOLDING BIKE SkyBike; 20; 3; 11900; false; yellow; 1115
+SPEEDELEC Tesla; 15; 9500; false; 13200; lemon; 285
+SPEEDELEC Freego; 35; 21300; false; 4500; yellow; 779
+E-BIKE Haibike; 30; 22700; true; 24000; black; 1085
+SPEEDELEC Kugoo; 50; 20300; true; 4400; flame; 299
+FOLDING BIKE Titan; 14; 18; 13300; true; emerald; 285
+SPEEDELEC OIO; 45; 9700; true; 10500; olive; 785
+SPEEDELEC OIO; 15; 7100; true; 9400; rose; 1065
+SPEEDELEC OIO; 55; 19900; true; 10900; brown; 435
+SPEEDELEC Kugoo; 65; 17700; true; 15100; khaki; 539
+FOLDING BIKE Author; 18; 8; 11600; false; red; 279
+FOLDING BIKE West Bike; 14; 7; 14700; true; black; 1289
+SPEEDELEC Dualtron; 50; 17300; true; 15500; flame; 1549
+SPEEDELEC Booster; 10; 20000; false; 11800; dark gray; 1095
+FOLDING BIKE Stern; 20; 27; 16500; false; white; 439
+SPEEDELEC Dualtron; 60; 20500; false; 15600; golden; 869
+SPEEDELEC Ultron; 60; 7000; false; 11400; lemon; 1055
+E-BIKE Ferrari; 60; 28900; false; 21000; brown; 825
