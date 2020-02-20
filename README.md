@@ -14,6 +14,7 @@ Specifically, EcoBike gave you the following file format and wants you to develo
 An example of such a file looks as follows:
 
 (obviously, you are not allowed to change the file format in any way!)
+
 FOLDING BIKE Brompton; 20; 6; 9283; TRUE; black; 1199
 
 SPEEDELEC Peugeot; 45; 5426; TRUE; 8000; blue; 875
